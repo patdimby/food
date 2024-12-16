@@ -1,0 +1,6 @@
+@foodback_HostAddress = http://localhost:5192
+
+GET {{foodback_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
